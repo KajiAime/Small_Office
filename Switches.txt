@@ -1,0 +1,16 @@
+Types of Switches
+According to management, we have:
+1.	Unmanaged Switches: Unmanaged switches are the most basic type of switch and are typically used in small networks. They are plug-and-play devices that require no configuration and provide basic connectivity between networked devices. Unmanaged switches are usually limited to 10/100 Mbps speeds and have a limited number of ports.
+2.	Managed Switches: Managed switches provide more control over the network than unmanaged switches, allowing for more advanced features such as VLANs, QoS, port mirroring, and link aggregation. They also offer higher speeds and more ports than unmanaged switches, making them ideal for larger networks or those with more complex requirements.
+According to layers, we have:
+1.	 Layer 2 Switches: Layer 2 switches are designed to operate at the data link layer of the OSI model (Layer 2). They can forward traffic based on MAC addresses and can also be used to segment networks into multiple VLANs. Layer 2 switches are often used in enterprise networks where they provide increased performance and security.
+2.	Layer 3 Switches: Layer 3 switches are designed to operate at the network layer of the OSI model (Layer 3). They can forward traffic based on IP addresses and can also be used to route traffic between different subnets or VLANs. Layer 3 switches offer increased performance compared to Layer 2 switches, making them ideal for larger networks or those with more complex requirements.
+Advantages of switches
+1. Switches are able to provide high performance and reliability in a network. They can be used to segment a network into smaller, more manageable segments, allowing for better control of traffic flow and improved security.
+2. Switches can also be used to create virtual LANs (VLANs), which allow for the creation of multiple isolated networks on the same physical infrastructure. This allows for greater flexibility in terms of network design and management.
+3. Switches are also able to provide Quality of Service (QoS) features, which allow for prioritization of certain types of traffic over others, ensuring that important applications get the bandwidth they need while less important applications do not consume too much bandwidth.
+
+Disadvantages: 
+1. Switches are more expensive than hubs, so they may not be suitable for smaller networks or those with limited budgets. 
+2. Switches require more configuration than hubs, so they may not be suitable for networks where there is limited technical expertise available. 
+3. Switches can become congested if too many devices are connected to them, leading to reduced performance and reliability in the network.
